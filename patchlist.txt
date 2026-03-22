@@ -1,2 +1,0 @@
-Datatable/Item.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/Datatable/Item.edf|CC33F6266448372DF5B36BD1FD842728
-Datatable/en-ph/NDItem.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/Datatable/en-ph/NDItem.edf|F3C96B583C153C091754238F62B1C7D9
