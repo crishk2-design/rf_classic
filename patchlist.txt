@@ -1,0 +1,3 @@
+rf_online.bin|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/rf_online.bin|1F397653E7F48565ED2D1495BCC39BAA
+DataTable/Item.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/Item.edf|3BE7B8B182CCD96E48989B4E57311193
+DataTable/en-ph/NDItem.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/en-ph/NDItem.edf|3BE7B8B182CCD96E48989B4E57311193
