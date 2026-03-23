@@ -1,4 +1,5 @@
-rf_online.bin|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/rf_online.bin|1F397653E7F48565ED2D1495BCC39BAA
+rf_online.bin|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/rf_online.bin|6116BF36B7D281CB8BD4092B931F8C44
+sirin-launcher.dll|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/sirin-launcher.dll|C21CF209FBB3D24C745A00E2E7697380
 DataTable/Character.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/Character.edf|E22BF2D586080282CADB573A2E302C49
 DataTable/EventShip.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/EventShip.edf|0E38638006D7C7DE19757E023DC572DD
 DataTable/Item.edf|https://raw.githubusercontent.com/RFNewW/update-server-newwar/main/version/DataTable/Item.edf|CC33F6266448372DF5B36BD1FD842728
